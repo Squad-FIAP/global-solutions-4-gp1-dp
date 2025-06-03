@@ -2,6 +2,10 @@
 
 Sistema em Python que implementa um centro de controle inteligente para organização e gestão de combate a focos de incêndio em florestas e áreas de vegetação.
 
+## Integrantes
+- Gabriel Mediotti Marques - RM 552632
+- Jó Sales - RM 552679
+
 ## Estruturas de Dados Utilizadas
 
 - **Fila (Queue)**: Organiza chamadas de emergência por ordem de chegada
